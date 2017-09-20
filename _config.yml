@@ -1,12 +1,12 @@
-#
+
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Carlie Badder
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Data Scientist in Training at Metis Seattle
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: badderc@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/badderc
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/carlie-badder-99887743/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb

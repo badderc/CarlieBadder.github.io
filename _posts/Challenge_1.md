@@ -17,7 +17,7 @@ right away. I dove into the data on the first night and immediately starting mak
 out of lists, writing tons of for loops, copying and pasting code, and plotting things randomly.
 Long story short, I wrote a long, messy Jupyter Notebook that didn't do much.
 
-### My Second Attemp...not so bad
+### My Second Attempt...not so bad
 I took a step back after we covered more Python Pandas functionality in lecture and after I thought
 about some of the problem areas with the data and took some time to organize.
 1. I organized the values of my dictionary into data frames instead of lists.

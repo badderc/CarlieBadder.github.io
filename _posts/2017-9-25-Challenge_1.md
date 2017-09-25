@@ -2,8 +2,6 @@
 layout: post
 title: Challenge 1
 ---
-
-# Challenge 1
 ## a.k.a. Exploring MTA Turnstile Data
 ## a.k.a. My first crack at data cleaning and analysis and the 'pandas-monium' that ensued
 

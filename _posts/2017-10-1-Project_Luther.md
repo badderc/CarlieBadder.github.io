@@ -2,7 +2,6 @@
 layout: post
 title: Scary Good...or Just Rotten
 ---
-2017-9-29-
 
 ## Webscraping with Selenium and Beautiful Soup and Linear Regression Models
 

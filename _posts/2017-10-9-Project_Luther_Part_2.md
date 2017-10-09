@@ -1,12 +1,13 @@
+---
+layout: post
+title: ...mostly rotten
+---
 
-
-# ...mostly rotten
 It turns out that predicting Rotten Tomato scores for scary movies is not
 that easy to do!
 
-## Quick Recap of Project Motivations
 ![_Jack Skellington]({{ site.baseurl }}/images/jack.jpg)
-
+## Quick Recap of Project Motivations
 It's almost Halloween and I like to watch scary movies to get into the 
 spooky spirit. It's also important to me to watch the best scary movies,
 so I turn to Rotten Tomatoes to clue me in on which movies will scare and
@@ -25,6 +26,7 @@ could modify their marketing plans and even identify the movie features that
 generate the best scores and make sure to implement them for ultimate movie
 success!
 
+![_RT Logo]({{ site.baseurl }}/images/rtlogo.jpg)
 ## How Rotten Tomatoes Scores Work
 Critics certified by Rotten Tomatoes go to advanced screenings of new films
 and send in their reviews to Rotten Tomatoes. Critics are certified after 
@@ -38,6 +40,7 @@ really just provides a general consensus about a film because the way the
 reviews are divided diminishes the potential impact of very negative or 
 very positive reviews. 
 
+![_Frank]({{ site.baseurl }}/images/frank.jpg)
 ## Creature Features
 After pulling together data from Box Office Mojo and IMDB, I was overwhelmed 
 with features to use to predict the scores. I was able to eliminate several 
@@ -115,6 +118,7 @@ preferences of each critic, I could also use those preferences to pin down some 
 the most common features of the highest rated films. But all that is for another
 day and another project.
 
+![_BeetleJuice]({{ site.baseurl }}/images/beetlejuice.jpg)
 ## Happy Halloween!
 ### Creep it real, folks
 

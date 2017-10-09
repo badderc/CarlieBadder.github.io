@@ -26,7 +26,7 @@ could modify their marketing plans and even identify the movie features that
 generate the best scores and make sure to implement them for ultimate movie
 success!
 
-![_RT Logo]({{ site.baseurl }}/images/rtlogo.jpg)
+![_RT Logo]({{ site.baseurl }}/images/rtlogo.png)
 ## How Rotten Tomatoes Scores Work
 Critics certified by Rotten Tomatoes go to advanced screenings of new films
 and send in their reviews to Rotten Tomatoes. Critics are certified after 
@@ -118,7 +118,7 @@ preferences of each critic, I could also use those preferences to pin down some 
 the most common features of the highest rated films. But all that is for another
 day and another project.
 
-![_BeetleJuice]({{ site.baseurl }}/images/beetlejuice.jpg)
+![_BeetleJuice]({{ site.baseurl }}/images/beetlejuice.jpeg)
 ## Happy Halloween!
 ### Creep it real, folks
 

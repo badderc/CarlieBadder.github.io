@@ -5,6 +5,8 @@ It turns out that predicting Rotten Tomato scores for scary movies is not
 that easy to do!
 
 ## Quick Recap of Project Motivations
+![_Jack Skellington]({{ site.baseurl }}/images/jack.jpg)
+
 It's almost Halloween and I like to watch scary movies to get into the 
 spooky spirit. It's also important to me to watch the best scary movies,
 so I turn to Rotten Tomatoes to clue me in on which movies will scare and

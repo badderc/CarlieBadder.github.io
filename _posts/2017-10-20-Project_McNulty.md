@@ -58,7 +58,7 @@ choose best parameters*
 8. Support Vector Machine with Radial Basis Function
 
 ## And the winner is...
-** Gradient Boosted Classifier **
+** Random Forest Classifier **
 The model with the best accuracy and AUC score was the gradient boosted
 classifer. It was very close to the random forest classifer as seen in the 
 ROC curve below:

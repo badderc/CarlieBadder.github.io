@@ -105,9 +105,27 @@ which made them ideal for checking the model clusters.
 ![_Noble18]({{ site.baseurl }}/images/noble18info.jpg)
 
 ## Two Topics: Red vs. White Wines
-simplified stuff by just using the noble 18 wines
-the topic on the x-axis not sure?
+The Truncated SVD with two topics did a pretty great
+job separating red from white wine like I'd hoped. The
+plot below is colored according to the 18 Noble Wines, 
+which I labeled by red and white.
+
+![_TwoTopics]({{ site.baseurl }}/images/noble18plotrw.jpg)
+
+The topic displayed on the y-axis shows the clearest
+distinction between red and white wines. And, when I 
+looked at the most common words in the descriptions at
+the extremes of the of the y-axis, the words from the top
+sounded notably like white wine-descriptors, while the words
+from the bottom sounded more like red wines.
+
+|                    |                                                               Top                                                               |                                                                Bottom                                                               |   |   |
+|:------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|---|---|
+| Most Common  Words | crisp, apple, citrus, fresh, peach, pear, lemon, green, clean, light, lime, melon,  bright, grapefruit,  creamy, honey, apricot | tannins, black, cherry, blackberry, dark, firm, chocolate, plum, cassis, currant, tannic, licorice, berry, dense, tobacco,  leather |  
+
 the topic on the y-axis separates red from white - according to weight
+
+the topic on the x-axis not sure?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gF675nRLCeQ" frameborder="0" gesture="media" allowfullscreen></iframe>
 

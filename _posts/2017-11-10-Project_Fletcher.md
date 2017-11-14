@@ -121,15 +121,39 @@ from the bottom sounded more like red wines.
 
 ![_TopBottom]({{ site.baseurl }}/images/topbottom.png)
 
-the topic on the x-axis not sure?
+The topic on the x-axis, however, was not so clear. There
+is some pattern from left to right, but it affects both
+the red and the white wines. When I inspected descriptions 
+from the extremes, I could see a large difference in the 
+most common words. Some of the words on the left side were
+not even real words and most of them were not obviously 
+related to wine. I determined that the second topic was
+distinguishing unconventional and uncommon wine descriptions
+from more traditional and basic ones. It was most likely
+picking up on the descriptions that included more information
+about the vineyard or the circumstances surrounding the 
+production of that specific wine rather than information on
+the taste.
 
 ![_LeftRight]({{ site.baseurl }}/images/leftright.png)
 
-the topic on the y-axis separates red from white - according to weight
+The two topics got even more interesting once I colored the
+data points by the specifc wines of the Noble 18. The 
+animation below shows the wines colored in gradients of green 
+and purple, for white and red wines respectively, where the gradients
+correspond to the weights of the wines, ie. Pinot Grigio is the
+lightest-bodied wine of the whites and is colored the lightest. 
+As the animation cycles through the description clusters, it 
+reveals a pattern: the wines rotate clockwise about the origin
+from lightest white at the top to darkest red at the bottom. I 
+did not expect to see this result because almost none of the descriptions
+explicitly label the wines' weights. This colorized plot demonstrates
+that the weight could potentially be extrapolated from the 
+rest of the description. This finding encouraged me to explore 
+topic modeling with a greater number of topics (hopefully that
+correspond to more specific styles of wines).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gF675nRLCeQ" frameborder="0" gesture="media" allowfullscreen></iframe>
-
-![_NineTopicsDivider]({{ site.baseurl }}/images/wines8.jpg)
 
 ## Nine Topics: The Spectrum of White to Red Wines
 ![_NineWinesGif]({{ site.baseurl }}/images/animated-gif-winestyles.gif)
@@ -140,6 +164,8 @@ a time to account for lower representation of rosés,
 sparkling wines, and dessert wines and for the blending
 between aromatic and light whites and light to medium
 bodied whites, which were not as easily distinguishable
+
+![_NineTopicsDivider]({{ site.baseurl }}/images/wines8.jpg)
 
 ## A Simple Recommendation System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/go4VzEt7KWY" frameborder="0" gesture="media" allowfullscreen></iframe>

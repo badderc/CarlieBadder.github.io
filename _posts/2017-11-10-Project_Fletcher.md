@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Wine Recommender
+title: Wine not take another sip?
 ---
-
 
 ## An exploration into the world of oenology
 I love wine. I like to drink wine, I like to enjoy wine
@@ -158,17 +157,45 @@ correspond to more specific styles of wines).
 ## Nine Topics: The Spectrum of White to Red Wines
 ![_NineWinesGif]({{ site.baseurl }}/images/animated-gif-winestyles.gif)
 
-definitely something there - interesting to look at 
-8, 7, 6, and 5 topics as well - removing one topic at 
-a time to account for lower representation of rosés,
-sparkling wines, and dessert wines and for the blending
-between aromatic and light whites and light to medium
-bodied whites, which were not as easily distinguishable
+In the next phase of exploration, I ran the TruncatedSVD
+with 9 topics to see if the descriptions could distinguish 
+the nine major styles of wine, as listed in the above gif.
+The resulting nine topics and their most common terms 
+appeared to distinguish the 9 styles of wine. In order
+to visualize them I used dimensionality reduction
+with principle component analysis (PCA) and plotted the 
+first three principle components in varying combinations to
+see if any matching clusters emerged. The plots were not so
+easy to interpret, but there is a concentration of rich and 
+full-bodied wines at the center, with lighter wines 
+radiating outward.
+
+![_NineTopicsPlot]({{ site.baseurl }}/images/topicplot9.png)
+
+I took note of the number wines in each style and found that
+dessert, sparkling, and rose wines were not as well represented
+as the others. So I began removing one topic at 
+a time, running the TruncatedSVD model, and seeing if I could 
+better interpret the results. The topics for 7 and 5 were 
+promising and I will most likely look into these groupings 
+in future studies.
 
 ![_NineTopicsDivider]({{ site.baseurl }}/images/wines8.jpg)
 
 ## A Simple Recommendation System
+Lastly, I decided to take what I learned about wines and
+build a simple, but fun recommendation system. I took common 
+terms from the descriptions, divided them up into three
+groups according to the 12 main categories of descriptive 
+terms for wines, and let users create their own descriptions
+to see what wines they should try. The video below demonstrates
+one description chosen by me!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/go4VzEt7KWY" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+## CHEERS!
+
+![_Cheers]({{ site.baseurl }}/images/cheers.jpg)
 
 
 

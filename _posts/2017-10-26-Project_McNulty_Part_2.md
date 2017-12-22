@@ -2,9 +2,8 @@
 layout: post
 title: What to do when your model is almost too good?
 ---
+## ...find a problem with it
 ![_Runner]({{ site.baseurl }}/images/run_silhouette.jpg)
-
-## **...find a problem with it** 
 
 I thought more about what I wanted to accomplish with
 the activity classifier and I realized that a Random Forest

@@ -2,11 +2,11 @@
 layout: post
 title: ...mostly rotten
 ---
-
-It turns out that predicting Rotten Tomato scores for scary movies is not
-that easy to do!
-
 ![_Jack Skellington]({{ site.baseurl }}/images/jack.jpg)
+
+## It turns out that predicting Rotten Tomato scores for scary movies is not
+## that easy to do!
+
 ## Quick Recap of Project Motivations
 It's almost Halloween and I like to watch scary movies to get into the 
 spooky spirit. It's also important to me to watch the best scary movies,

@@ -10,32 +10,46 @@ theme_settings:
   header_text: Welcome to my blog
   header_text_feature_image: /images/cheers.jpg
   footer_text: Blog written by humans since 2017
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  rss: true
+  email_address: badderc@gmail.com
+  linkedin: https://www.linkedin.com/in/carlie-badder/
+  
+
   
 # Name of your site (displayed in the header)
 name: BadderData
 
 # Short bio or description (displayed in the header)
-description: Data Scientist
+# description: Data Scientist
 
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: badderc@gmail.com
-  facebook:
-  flickr:
-  github: badderc
-  instagram:
-  linkedin: carlie-badder-99887743/
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+#footer-links:
+ # dribbble:
+  #email: badderc@gmail.com
+  #facebook:
+  #flickr:
+  #github: badderc
+  #instagram:
+  #linkedin: carlie-badder-99887743/
+  #pinterest:
+  #rss: # just type anything here for a working RSS icon
+  #twitter: jekyllrb
+  #stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  #youtube: # channel/<your_long_string> or user/<user-name>
+  #googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

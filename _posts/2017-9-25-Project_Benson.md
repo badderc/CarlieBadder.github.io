@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Challenge 1
+title: Can I have your number?
 ---
 ## a.k.a. Exploring MTA Turnstile Data
-## a.k.a. My first crack at data cleaning and analysis and the 'pandas-monium' that ensued
 ![_Subway Station]({{ site.baseurl }}/images/subway.jpg)
+
+## a.k.a. My first crack at data cleaning and analysis and the 'pandas-monium' that ensued
 
 ### Project Objectives
 1. Get familiar with some basic, but essential data science tools

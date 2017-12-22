@@ -2,9 +2,9 @@
 layout: post
 title: Wine not take another sip?
 ---
+## An exploration into the world of oenology
 ![_WineGlassDark]({{ site.baseurl }}/images/dark_glass.jpg)
 
-## An exploration into the world of oenology
 I love wine. I like to drink wine, I like to enjoy wine
 with good food and good company, and I like to pretend I
 know things about wine. 

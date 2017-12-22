@@ -1,6 +1,7 @@
 
 # This file contains configuration flags to customize your site
 # 
+theme: jekyll-theme-slate
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/me.JPG
@@ -9,7 +10,8 @@ avatar: /images/me.JPG
 name: BadderData
 
 # Short bio or description (displayed in the header)
-# description: Data Scientist
+title: BadderData
+description: Carlie Badder is a Data Scientist
 
 #
 # Flags below are optional

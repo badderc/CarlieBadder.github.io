@@ -1,15 +1,16 @@
 
 # This file contains configuration flags to customize your site
-#
+# 
+remote_theme: Sylhare / Type-on-Strap
 
 # Name of your site (displayed in the header)
-name: Carlie Badder
+name: BadderData
 
 # Short bio or description (displayed in the header)
-description: Data Scientist in Training at Metis Seattle
+description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/badderc/badderc.github.io/blob/master/images/me.JPG
+avatar: https://github.com/badderc/badderc.github.io/blob/master/images/me.jpg
 
 #
 # Flags below are optional

@@ -2,13 +2,12 @@
 layout: post
 title: Wine not take another sip?
 ---
+![_WineGlassDark]({{ site.baseurl }}/images/dark_glass.jpg)
 
 ## An exploration into the world of oenology
 I love wine. I like to drink wine, I like to enjoy wine
 with good food and good company, and I like to pretend I
 know things about wine. 
-
-![_WineGlassDark]({{ site.baseurl }}/images/dark_glass.jpg)
 
 In reality though, I am no wine connoisseur and I often 
 do not really know what the back of the wine bottle is 

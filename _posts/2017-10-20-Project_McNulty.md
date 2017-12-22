@@ -2,10 +2,8 @@
 layout: post
 title: Run...or Walk?
 ---
-
-![_Runners]({{ site.baseurl }}/images/runninggroup.jpg)
-
 ## My model tells me you are neither walking nor running right now...
+![_Runners]({{ site.baseurl }}/images/runninggroup.jpg)
 as you sit reading this blog post.
 
 ## The Project

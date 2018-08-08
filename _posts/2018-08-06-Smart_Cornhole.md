@@ -46,7 +46,7 @@ pins and coding capabilities in Python, C#, and others.
 ![_Raspberry Pi/Pie]({{ site.baseurl }}/images/raspberrypis.png)
 
 ## A Typical IoT Solution Architecture
-Emitter --(HTTP/JSON)--> Reciever --(Data Stream)--> Storage --> Analyzer --> Reporter
+![_IoT Solution]({{ site.baseurl }}/images/IoTSolution.png)
 
 
 
